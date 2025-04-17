@@ -1,0 +1,15 @@
+{
+    "name": "vendor/lab3",
+    "authors": [
+        {
+            "name": "Abdelrahmansherif207",
+            "email": "abdelrahmansherif207@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "Model/"
+        ]
+    },
+    "require": {}
+}
